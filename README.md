@@ -1,6 +1,6 @@
 ### Hello Everybody!!! Sou o Rodrigo André! 👋
 
-- 👨‍🏫 Instrutor de Tecnologia e Gestão
+- 👨‍🏫 Educador Social na Área de Tecnologia
 - 📘 Bacharel em Ciência da Computação
 
 <div align="center">
